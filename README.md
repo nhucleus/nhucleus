@@ -18,6 +18,6 @@ const nhu-y = {
 }
 ```
 
-<img src="https://media.clicky.co.uk/blog/archive/aminated-talking-people@2x.gif" width="60"> <em><b>If you’d like to learn more about me, please feel free to reach out!</b> :)</em>
+<img src="https://media.clicky.co.uk/blog/archive/aminated-talking-people@2x.gif" width="60"> <em><b>I love to talk about programming or gaming with others! Let's connect</b> :)</em>
 
 ---
