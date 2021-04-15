@@ -7,7 +7,7 @@
 [![GitHub Nhucleus](https://img.shields.io/github/followers/nhucleus?label=follow&style=social)](https://github.com/nhucleus)
 
 
-### <img src="https://media4.giphy.com/media/XZZhLdVtTNixtKcXsX/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media3.giphy.com/media/w6LUEFiFi7K0h3FhB4/source.gif" width="50"> A little more about me...  
 
 ```javascript
 const nhu-y = {
