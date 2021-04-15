@@ -13,7 +13,8 @@
 const nhu-y = {
   pronouns: "she" | "her",
   code: [JavaScript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Styled-Components, Docker, AWS S3, Postgres, SQL, REST APIs, OOP, GraphQL, PUG, Express.js, Flask]
+  tools: [React, Redux, Node, Styled-Components, Docker, AWS S3, Postgres, 
+          SQL, REST APIs, OOP, GraphQL, PUG, Express.js, Flask]
 }
 ```
 
