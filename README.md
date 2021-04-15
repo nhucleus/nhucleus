@@ -13,9 +13,9 @@
 const nhu-y = {
   pronouns: "she" | "her",
   code: [JavaScript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Styled-Components, Docker, AWS S3, Postgres, 
-          SQL, REST APIs, OOP, GraphQL, PUG, Express.js, Flask]
-}
+  tools: [React, Redux, Node, Styled-Components, Docker, AWS-S3, Postgres, 
+          SQL, REST-APIs, OOP, GraphQL, PUG, Express.js, Flask]
+
 ```
 
 <img src="https://media.clicky.co.uk/blog/archive/aminated-talking-people@2x.gif" width="60"> <em><b>I love to talk about programming or gaming with others! Let's connect</b> :)</em>
