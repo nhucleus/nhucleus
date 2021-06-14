@@ -1,5 +1,5 @@
 <h2> Hi, I'm Nhu-y! <img src="https://media.tenor.com/images/b7f8a22a4908cdb48970593ae2ce8bc6/tenor.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/originals/1b/d3/fb/1bd3fb79818b68b9dd6173d36e83f718.gif" width="230">
+<img align='right' src="https://3.bp.blogspot.com/-4hIuAw170zc/XW_FgB7KHvI/AAAAAABHB54/e1yWZyTvCWoDF9b4AdnSOOZRIhskBJaTgCLcBGAs/s1600/AW3978704_01.gif" width="230">
 <p><em>Software Engineer <img src="https://media1.giphy.com/media/gK065lJ5vvVLeMbuOH/giphy.gif?cid=6c09b9521zg0rxhbblpcu9jbsmm4y5owa8xcpym3gjtgwv7t&rid=giphy.gif&ct=s" width="50">
 </em></p>
 
