@@ -14,7 +14,7 @@ const nhu-y = {
   pronouns: "she" | "her",
   code: [JavaScript, Python, HTML, CSS],
   tools: [React, Redux, Node, Styled-Components, Docker, AWS-S3, Postgres, 
-          SQL, REST-APIs, OOP, Express.js, Flask]
+          SQL, MySQL, REST-APIs, OOP, Express.js, Flask]
 
 ```
 
